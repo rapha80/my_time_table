@@ -1,0 +1,4 @@
+Eddy Derick, student number : 399
+math, Wednesday, 9:00, Online, 2H, Year 1
+programming skills, Tuesday, 8:30, Face-to-face, 1H, Year 1
+data mining, Thursday, 12:00, Online, 2H, Year 3
